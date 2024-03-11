@@ -1,0 +1,24 @@
+cd/opt
+
+git clone
+https://github.com/aboul3la/Sublist3r.git
+
+cd Sublist3r/
+
+pip install -r requirements.txt
+
+sudo pip install requests
+sudo pip install dnspyhton
+sudo pip install argparse
+
+“./sublist3r.py”.
+
+“sudo ln -sfv /opt/Sublist3r/sublist3r.py /usr/bin/sublist3r”.
+
+“sublist3r -v -d ‘Website-url’ -t 5 -e bing -o -/Desktop/sublist3r.txt”.
+
+
+
+https://www.maltego.com/ce-registration/.
+
+“sudo apt install maltego”.
